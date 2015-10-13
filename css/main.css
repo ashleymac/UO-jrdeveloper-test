@@ -1,0 +1,11 @@
+.thumbnail {
+  display: block;
+  padding: 4px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+}
+
+.thumbnail:hover img{
+	background-color:#000;
+	opacity:0.5;
+}
